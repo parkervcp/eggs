@@ -224,6 +224,10 @@ This is a collection of servers that use SteamCMD to install.
 
 [Quake Live](quake_live)
 
+## Reign Of Dwarf
+
+[Reign Of Dwarf](reign_of_dwarf)
+
 ## Resonite
 [Resonite](resonite)
 
