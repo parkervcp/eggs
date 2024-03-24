@@ -109,6 +109,10 @@
 
 [Minetest](minetest) (including MTG)
 
+[Neverwinter Nights](neverwinter_nights)
+
+* [Neverwinter Nights: Enhanced Edition](neverwinter_nights/enhanced_edition)
+
 [OpenArena](openarena)
 
 [OpenRA](openra)

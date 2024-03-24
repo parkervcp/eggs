@@ -213,9 +213,13 @@ If you are reading this it looks like you are looking to add an egg to your serv
     * [GeyserMC](game_eggs/minecraft/proxy/cross_platform/geyser)
     * [Waterdog](game_eggs/minecraft/proxy/cross_platform/waterdog)
 
-[OpenArena](game_eggs/openarena)
+[Neverwinter Nights](game_eggs/neverwinter_nights)
 
-* [openarena](game_eggs/openarena/openarena)
+* [Neverwinter Nights: Enhanced Edition](game_eggs/neverwinter_nights/enhanced_edition)
+
+[OpenArena](game_eggs/openarena)  
+
+  * [openarena](game_eggs/openarena/openarena)
 
 [OpenRA](game_eggs/openra)
 
